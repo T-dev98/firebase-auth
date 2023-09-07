@@ -1,3 +1,8 @@
+# INTRO
+Login and Sign-up page with Firebase authentication and React.
+# Tech used
+- React, React Router DOM, and Firebase.
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
